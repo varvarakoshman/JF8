@@ -1,0 +1,1 @@
+INSERT INTO books (title,author, year) VALUES ('OCA study guide', 'Scott Selikoff', 2014);

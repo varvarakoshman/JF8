@@ -1,0 +1,1 @@
+CREATE TABLE books (id identity, title VARCHAR, author VARCHAR, year INT);
